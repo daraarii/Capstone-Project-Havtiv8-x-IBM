@@ -1,8 +1,8 @@
 # Capstone-Project-Havtiv8-x-IBM
 
-# 📖 Analisis Indeks Pembangunan Literasi Masyarakat (IPLM) 2023
+# Analisis Indeks Pembangunan Literasi Masyarakat (IPLM) 2023
 
-## 📌 Deskripsi Proyek
+## Deskripsi Proyek
 
 Proyek ini bertujuan untuk **menganalisis Indeks Pembangunan Literasi
 Masyarakat (IPLM)** di Indonesia, mengidentifikasi akar masalah literasi
@@ -16,7 +16,7 @@ dan recommendation.
 
 ------------------------------------------------------------------------
 
-## 🎯 Objective
+## Objective
 
 -   Menganalisis kondisi IPLM di berbagai daerah di Indonesia.\
 -   Mengidentifikasi disparitas antarwilayah dalam akses dan kegiatan
@@ -28,7 +28,7 @@ dan recommendation.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tools & AI Support
+## Tools & AI Support
 
 -   **Google Colab** → Python compiler untuk preprocessing, analisis,
     dan modelling.\
@@ -42,7 +42,7 @@ dan recommendation.
 
 ------------------------------------------------------------------------
 
-## 📂 Dataset
+## Dataset
 
 -   **Sumber:** [data.go.id -- Indeks Pembangunan Literasi Masyarakat
     2023](https://data.go.id/dataset/dataset/indeks-pembangunan-literasi-masyarakat-2023)\
@@ -63,7 +63,7 @@ daerah.
 
 ------------------------------------------------------------------------
 
-## 🔄 Alur Analisis
+## Alur Analisis
 
 1.  **Data Preparation** → memuat & membersihkan dataset.\
 2.  **Exploratory Data Analysis (EDA)** → memahami distribusi & korelasi
@@ -90,7 +90,7 @@ daerah.
 
 ------------------------------------------------------------------------
 
-## ✅ Kesimpulan & Rekomendasi
+## Kesimpulan & Rekomendasi
 
 -   Ada ketidakmerataan signifikan dalam literasi antarwilayah
     Indonesia.\
